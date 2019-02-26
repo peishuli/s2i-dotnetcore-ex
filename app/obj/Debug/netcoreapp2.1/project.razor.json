@@ -1,0 +1,6 @@
+{
+  "ProjectFilePath": "c:\\lhi\\k8s\\OKD\\minishift\\hello\\s2i-dotnetcore-ex\\app\\app.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": null
+}
