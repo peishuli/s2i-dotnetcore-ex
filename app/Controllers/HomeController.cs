@@ -17,7 +17,7 @@ namespace app.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "About Minishift???";
+            ViewData["Message"] = "This is a sample .NET Core app running inside Minishift!";
 
             return View();
         }
